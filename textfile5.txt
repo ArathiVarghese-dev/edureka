@@ -1,2 +1,6 @@
 this textfile 5 for testing rebase from branch
+
 edit from branch1
+
+edit from branch2
+change from branch2 to test conflict
